@@ -1,1 +1,1 @@
-# Remote-Editing-via-Pywikibot-
+# Remote-Editing-via-Pywikibot
