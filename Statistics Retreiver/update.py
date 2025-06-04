@@ -23,9 +23,9 @@ def main():
     text = original_text
 
     # Find index positions
-    rc_idx = text.find("Number of Ratings") + 109
-    upv_idx = text.find("Number of Upvotes") + 109
-    downv_idx = text.find("Number of Downvotes") + 111
+    rc_idx = text.find("Votes") + 97
+    upv_idx = text.find("Upvotes") + 99
+    downv_idx = text.find("Downvotes") + 101
 
     # Extract old values
     prev_rc = return_num(text, rc_idx)
