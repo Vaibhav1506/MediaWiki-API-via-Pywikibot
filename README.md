@@ -7,3 +7,7 @@ Let's just say we have a web page about some product or some other items or even
 ## What is Pywikibot ?
 Pywikibot is a Python library and command-line tool designed to automate work on wikis that run on MediaWiki, such as Wikipedia, Fandom, or any MediaWiki-powered site. It allows you to programmatically interact with wiki pages — reading, editing, creating, and organizing content — using scripts. It was originally developed for MediaWiki but now works for any MediaWiki powered site.
 
+## What is MediaWiki and how it works in sync with Pywikibot?
+MediaWiki is a free, open-source wiki software platform that powers websites where many users can collaboratively create and edit content. It was originally developed for Wikipedia, but now it is widely used by organizations, communities, and individuals to build knowledge bases, documentation sites, and public or private wikis. MediaWiki and Pywikibot work together through the MediaWiki API — a powerful interface that allows bots to read, edit, and manage content just like a human editor, but programmatically and efficiently.
+
+{{TO BE COMPLETED}}
