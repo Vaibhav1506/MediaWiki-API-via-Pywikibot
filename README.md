@@ -94,6 +94,6 @@ Thus Pywikibot performs Actions like a Human Editor Pywikibot simulates what a h
 ## Automation
 For automation you can use **Launchd** for MacOS, **Cron** for Linux, **Task Scheduler** for Windows. In this case since I am using a Virtual Environment I had to write a bash script since I needed to enable the Virtual Environment everytime for running the script. Hence for automation I used the bash script which you can run periodically using any of the softwares as listed earlier with the output being :-
 
-![image](https://github.com/user-attachments/assets/a033f48e-10d8-4030-9c21-ec39de2b8e45)
+![Screenshot 2025-06-05 131243](https://github.com/user-attachments/assets/2efeb7f1-ea7f-468f-954e-c3b631951188)
 
 The pause at the end of the bash script for just for testing purposes so that's not neccessary because its only purpose is to pause the CMD window instead of closing automatically after it run successfully.
