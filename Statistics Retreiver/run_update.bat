@@ -1,6 +1,6 @@
 @echo off
-cd /d "C:\Users\<path to Virtual Environment>"
-call <Virtual Environment Name>\Scripts\activate.bat
-cd "<Script Folder>"
+cd /d "C:\Users\path to Virtual Environment"
+call YourVirtualEnvironmentName\Scripts\activate.bat
+cd "ScriptFolder"
 python update.py
 pause
